@@ -1,0 +1,5 @@
+nome = input('Digite seu Nome:')
+print(nome)
+print('Olá', nome)
+print('Olá', nome,',oque nós podemos fazer para você hoje ?')
+print('Olá {}, oque podemos fazer para você hoje ?'.format(nome))
