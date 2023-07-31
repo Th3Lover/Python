@@ -1,4 +1,5 @@
 # Python
+
     Estudo de Python
 
-    Estou a aprender Python.
+    Usando o curso do Curso em video de python para aprender.
